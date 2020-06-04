@@ -1,1 +1,1 @@
-# Java-test
+Dummy template
